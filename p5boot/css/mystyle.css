@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+h4 {
+    padding: 30px 35px 30px 10px;
+    font-size: 125%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #366;
+    background: url(../images/smallbug.png) no-repeat right center;
+    height: 2.5em;
+}
