@@ -20,3 +20,35 @@ a{
 body{
 	font-family: "Century Gothic", Arial, sans-serif;
 }
+.footer{
+	background-color: #b6dacb;
+}
+#bug{
+	float: left;
+}
+.banner{
+	margin: 0 7%;
+	
+}
+.header{
+	background-color: #b6dacb;
+	margin: 1% 3%;
+}
+.content{
+	margin: 0 auto;
+}
+.col1{
+	background-image: url(../images/background.png);
+	height: auto;
+	min-height: 100%;
+	margin: 0 auto;
+}
+.col2{
+
+}
+.col3{
+
+}
+.col4{
+
+}
